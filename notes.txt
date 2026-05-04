@@ -1,0 +1,8 @@
+The snake game will consist of seveal files
+1. main
+2. grid 
+3. snake 
+4. apples
+5. scoring system
+
+linked list for snake?
